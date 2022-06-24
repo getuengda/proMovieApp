@@ -138,7 +138,7 @@ function App() {
           <MovieImage src="/movie-icon.png" />
           My React Movie App
         </AppName>
-        <LoginButton />
+        {/* <LoginButton /> */}
         <SearchBox>
           <SearchIcon src="/search-icon.png" />
           <SearchInput
