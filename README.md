@@ -2,11 +2,9 @@
   * * * *
   
   ## About The App
-  * * * *
-
+  
     The application allows users to fetch movie data from the Movie API based on movie title. 
   
-
   ## Technologies
 
     React
@@ -34,9 +32,8 @@
   
   
    ## Access Links
-      Link below
+      [Github link](https://github.com/getuengda/proMovieApp)
       
-    [Github link](https://github.com/getuengda/proMovieApp.git)
   
 
 
