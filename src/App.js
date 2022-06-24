@@ -174,7 +174,7 @@ function App() {
           </FooterInfo>
           <FooterCopyRight>
              <hr style={{paddingRight:'2.2rem'}}></hr>
-              {ThisYear> 2022 ? <span>`2022 - ${ThisYear}`</span> : <span>{ThisYear}</span> }An eduactional exercise during the Multiverse bootcamp.
+              {ThisYear> 2022 ? <span>`2022 - ${ThisYear}`</span> : <span>{ThisYear}</span>} An Educational as an eduactional Exercise During the Multiverse Bootcamp.
           </FooterCopyRight>
       </Footer> 
     </Container>
