@@ -31,6 +31,7 @@
       - Add and Delete functionality
   
    ## Access Links
+   [Contribution guidelines for this project](docs/CONTRIBUTING.md)
       [Heroku](https://promovieapp.herokuapp.com/)
       
       
