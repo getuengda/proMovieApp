@@ -1,40 +1,40 @@
   # proMovieApp
   * * * *
+  
+  # About The App
+  * * * *
 
-  ## About The App
-
-    . The application allows users to fetch movie data from the Movie API based on movie title. 
+    The application allows users to fetch movie data from the Movie API based on movie title. 
   
 
-  ## Technologies
+  # Technologies
 
-   . React
+    React
   
+  * * * * 
+  # SetuP
 
-  ## Setup
-
-    . To run this project, install it locally using npm:
-    ```
+    To run this project, install it locally using npm:
+    
     $ npm install
     $ npm start
-    ```
-  
-  ## Features
+    
+  * * * *
+  # Features
 
-     . Currently, users could able to:
+     Currently, users could able to:
       - search exsisting movie itmes,
       - view detale about single movie item
    
-     . Stretch Goals:
-    
+     Stretch Goals:
       - Add bilingual search functionality,
       - Enable the login functionality,
       - Add Buttons to select most popular movies,
       - Add and Delete functionality
-    
-   ## Access
   
-     /
+  * * * * 
+   # Access Links
+    [Github link](https://github.com/getuengda/proMovieApp.git)
   
 
 
