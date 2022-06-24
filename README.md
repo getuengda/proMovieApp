@@ -21,8 +21,8 @@
   ## Features
 
      Currently, users could able to:
-      - search exsisting movie itmes,
-      - view detale about single movie item
+      - search an exsisting movie itmes,
+      - click on card to view detail about single movie item,
    
      Stretch Goals:
       - Add bilingual search functionality,
