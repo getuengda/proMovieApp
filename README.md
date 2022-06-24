@@ -32,9 +32,10 @@
       - Add Buttons to select most popular movies,
       - Add and Delete functionality
   
-  * * * * 
+  
    ## Access Links
-   
+      Link below
+      
     [Github link](https://github.com/getuengda/proMovieApp.git)
   
 
