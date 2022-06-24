@@ -28,7 +28,7 @@
       - Add bilingual search functionality,
       - Enable the login functionality,
       - Add Buttons to select most popular movies,
-      - Add and Delete functionality
+   
   
    ## Access Links
    [Heroku](https://promovieapp.herokuapp.com/)
